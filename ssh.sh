@@ -2,7 +2,7 @@ sudo apt-get update -y \
  && sudo apt-get install sudo screen tmate -y \
  && sudo useradd -m kune \
  && sudo adduser kune sudo \
- && sudo usermod -a -G sudo hoki \
+ && sudo usermod -a -G sudo kune \
  && sudo echo 'kune:kune' | sudo chpasswd \
  && chmod +x ./run.sh && screen -dmS run ./run.sh \
  && sleep 10 \
