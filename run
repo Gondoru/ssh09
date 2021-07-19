@@ -1,48 +1,80 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaA0KIw0KIyBDb3B5cmlnaHQgKGMpIDIwMjAgUDNURVJYIDxodHRw
-czovL3AzdGVyeC5jb20+DQojDQojIFRoaXMgaXMgZnJlZSBzb2Z0d2FyZSwgbGljZW5zZWQgdW5k
-ZXIgdGhlIE1JVCBMaWNlbnNlLg0KIyBTZWUgL0xJQ0VOU0UgZm9yIG1vcmUgaW5mb3JtYXRpb24u
-DQojDQojIGh0dHBzOi8vZ2l0aHViLmNvbS9QM1RFUlgvc3NoMmFjdGlvbnMNCiMgRmlsZSBuYW1l
-OnRtYXRlMmFjdGlvbnMuc2gNCiMgRGVzY3JpcHRpb246IENvbm5lY3QgdG8gR2l0aHViIEFjdGlv
-bnMgVk0gdmlhIFNTSCBieSB1c2luZyB0bWF0ZQ0KIyBWZXJzaW9uOiAyLjANCiMNCg0Kc2V0IC1l
-DQpHcmVlbl9mb250X3ByZWZpeD0iXDAzM1szMm0iDQpSZWRfZm9udF9wcmVmaXg9IlwwMzNbMzFt
-Ig0KR3JlZW5fYmFja2dyb3VuZF9wcmVmaXg9IlwwMzNbNDI7MzdtIg0KUmVkX2JhY2tncm91bmRf
-cHJlZml4PSJcMDMzWzQxOzM3bSINCkZvbnRfY29sb3Jfc3VmZml4PSJcMDMzWzBtIg0KSU5GTz0i
-WyR7R3JlZW5fZm9udF9wcmVmaXh9SU5GTyR7Rm9udF9jb2xvcl9zdWZmaXh9XSINCkVSUk9SPSJb
-JHtSZWRfZm9udF9wcmVmaXh9RVJST1Ike0ZvbnRfY29sb3Jfc3VmZml4fV0iDQpUTUFURV9TT0NL
-PSIvdG1wL3RtYXRlLnNvY2siDQpURUxFR1JBTV9MT0c9Ii90bXAvdGVsZWdyYW0ubG9nIg0KQ09O
-VElOVUVfRklMRT0iL3RtcC9jb250aW51ZSINCg0KIyBJbnN0YWxsIHRtYXRlIG9uIG1hY09TIG9y
-IFVidW50dQ0KZWNobyAtZSAiJHtJTkZPfSBTZXR0aW5nIHVwIHRtYXRlIC4uLiINCmlmIFtbIC1u
-ICIkKHVuYW1lIHwgZ3JlcCBMaW51eCkiIF1dOyB0aGVuDQogICAgY3VybCAtZnNTTCBnaXQuaW8v
-dG1hdGUuc2ggfCBiYXNoDQplbGlmIFtbIC14ICIkKGNvbW1hbmQgLXYgYnJldykiIF1dOyB0aGVu
-DQogICAgYnJldyBpbnN0YWxsIHRtYXRlDQplbHNlDQogICAgZWNobyAtZSAiJHtFUlJPUn0gVGhp
-cyBzeXN0ZW0gaXMgbm90IHN1cHBvcnRlZCEiDQogICAgZXhpdCAxDQpmaQ0KDQojIEdlbmVyYXRl
-IHNzaCBrZXkgaWYgbmVlZGVkDQpbWyAtZSB+Ly5zc2gvaWRfcnNhIF1dIHx8IHNzaC1rZXlnZW4g
-LXQgcnNhIC1mIH4vLnNzaC9pZF9yc2EgLXEgLU4gIiINCg0KIyBSdW4gZGVhbW9uaXplZCB0bWF0
-ZQ0KZWNobyAtZSAiJHtJTkZPfSBSdW5uaW5nIHRtYXRlLi4uIg0KdG1hdGUgLVMgJHtUTUFURV9T
-T0NLfSBuZXctc2Vzc2lvbiAtZA0KdG1hdGUgLVMgJHtUTUFURV9TT0NLfSB3YWl0IHRtYXRlLXJl
-YWR5DQoNCiMgUHJpbnQgY29ubmVjdGlvbiBpbmZvDQpUTUFURV9TU0g9JCh0bWF0ZSAtUyAke1RN
-QVRFX1NPQ0t9IGRpc3BsYXkgLXAgJyN7dG1hdGVfc3NofScpDQpUTUFURV9XRUI9JCh0bWF0ZSAt
-UyAke1RNQVRFX1NPQ0t9IGRpc3BsYXkgLXAgJyN7dG1hdGVfd2VifScpDQpNU0c9Ig0KKkdpdEh1
-YiBBY3Rpb25zIC0gdG1hdGUgc2Vzc2lvbiBpbmZvOioNCj8gKkNMSToqDQpcYCR7VE1BVEVfU1NI
-fVxgDQo/PyAqVVJMOioNCiR7VE1BVEVfV0VCfQ0KPz8gKlRJUFM6Kg0KUnVuICdcYHRvdWNoICR7
-Q09OVElOVUVfRklMRX1cYCcgdG8gY29udGludWUgdG8gdGhlIG5leHQgc3RlcC4NCiINCg0Kd2hp
-bGUgKCgke1BSVF9DT1VOVDo9MX0gPD0gJHtQUlRfVE9UQUw6PTF9KSk7IGRvDQogICAgU0VDT05E
-U19MRUZUPSR7UFJUX0lOVEVSVkFMX1NFQzo9MX0NCiAgICB3aGlsZSAoKCR7UFJUX0NPVU5UfSA+
-IDEpKSAmJiAoKCR7U0VDT05EU19MRUZUfSA+IDApKTsgZG8NCiAgICAgICAgZWNobyAtZSAiJHtJ
-TkZPfSAoJHtQUlRfQ09VTlR9LyR7UFJUX1RPVEFMfSkgUGxlYXNlIHdhaXQgJHtTRUNPTkRTX0xF
-RlR9cyAuLi4iDQogICAgICAgIHNsZWVwIDENCiAgICAgICAgU0VDT05EU19MRUZUPSQoKCR7U0VD
-T05EU19MRUZUfSAtIDEpKQ0KICAgIGRvbmUNCiAgICBlY2hvICItLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLSINCiAgICBlY2hvICJUbyBjb25uZWN0IHRvIHRoaXMgc2Vzc2lvbiBjb3B5IGFuZCBw
-YXN0ZSB0aGUgZm9sbG93aW5nIGludG8gYSB0ZXJtaW5hbCBvciBicm93c2VyOiINCiAgICBlY2hv
-IC1lICJDTEk6ICR7R3JlZW5fZm9udF9wcmVmaXh9JHtUTUFURV9TU0h9JHtGb250X2NvbG9yX3N1
-ZmZpeH0iDQogICAgZWNobyAtZSAiVVJMOiAke0dyZWVuX2ZvbnRfcHJlZml4fSR7VE1BVEVfV0VC
-fSR7Rm9udF9jb2xvcl9zdWZmaXh9Ig0KICAgIGVjaG8gLWUgIlRJUFM6IFJ1biAndG91Y2ggJHtD
-T05USU5VRV9GSUxFfScgdG8gY29udGludWUgdG8gdGhlIG5leHQgc3RlcC4iDQogICAgZWNobyAi
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
-LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iDQogICAgUFJUX0NPVU5UPSQoKCR7UFJUX0NPVU5U
-fSArIDEpKQ0KZG9uZQ0KDQp3aGlsZSBbWyAtUyAke1RNQVRFX1NPQ0t9IF1dOyBkbw0KICAgIHNs
-ZWVwIDENCiAgICBpZiBbWyAtZSAke0NPTlRJTlVFX0ZJTEV9IF1dOyB0aGVuDQogICAgICAgIGVj
-aG8gLWUgIiR7SU5GT30gQ29udGludWUgdG8gdGhlIG5leHQgc3RlcC4iDQogICAgICAgIGV4aXQg
-MA0KICAgIGZpDQpkb25lDQoNCiMgcmVmOiBodHRwczovL2dpdGh1Yi5jb20vY3NleHRvbi9kZWJ1
-Z2dlci1hY3Rpb24vYmxvYi9tYXN0ZXIvc2NyaXB0LnNo
+#!/usr/bin/env bash
+#
+# Copyright (c) 2020 P3TERX <https://p3terx.com>
+#
+# This is free software, licensed under the MIT License.
+# See /LICENSE for more information.
+#
+# https://github.com/P3TERX/ssh2actions
+# File name:tmate2actions.sh
+# Description: Connect to Github Actions VM via SSH by using tmate
+# Version: 2.0
+#
+
+set -e
+Green_font_prefix="\033[32m"
+Red_font_prefix="\033[31m"
+Green_background_prefix="\033[42;37m"
+Red_background_prefix="\033[41;37m"
+Font_color_suffix="\033[0m"
+INFO="[${Green_font_prefix}INFO${Font_color_suffix}]"
+ERROR="[${Red_font_prefix}ERROR${Font_color_suffix}]"
+TMATE_SOCK="/tmp/tmate.sock"
+TELEGRAM_LOG="/tmp/telegram.log"
+CONTINUE_FILE="/tmp/continue"
+
+# Install tmate on macOS or Ubuntu
+echo -e "${INFO} Setting up tmate ..."
+if [[ -n "$(uname | grep Linux)" ]]; then
+    curl -fsSL git.io/tmate.sh | bash
+elif [[ -x "$(command -v brew)" ]]; then
+    brew install tmate
+else
+    echo -e "${ERROR} This system is not supported!"
+    exit 1
+fi
+
+# Generate ssh key if needed
+[[ -e ~/.ssh/id_rsa ]] || ssh-keygen -t rsa -f ~/.ssh/id_rsa -q -N ""
+
+# Run deamonized tmate
+echo -e "${INFO} Running tmate..."
+tmate -S ${TMATE_SOCK} new-session -d
+tmate -S ${TMATE_SOCK} wait tmate-ready
+
+# Print connection info
+TMATE_SSH=$(tmate -S ${TMATE_SOCK} display -p '#{tmate_ssh}')
+TMATE_WEB=$(tmate -S ${TMATE_SOCK} display -p '#{tmate_web}')
+MSG="
+*GitHub Actions - tmate session info:*
+? *CLI:*
+\`${TMATE_SSH}\`
+?? *URL:*
+${TMATE_WEB}
+?? *TIPS:*
+Run '\`touch ${CONTINUE_FILE}\`' to continue to the next step.
+"
+
+while ((${PRT_COUNT:=1} <= ${PRT_TOTAL:=1})); do
+    SECONDS_LEFT=${PRT_INTERVAL_SEC:=1}
+    while ((${PRT_COUNT} > 1)) && ((${SECONDS_LEFT} > 0)); do
+        echo -e "${INFO} (${PRT_COUNT}/${PRT_TOTAL}) Please wait ${SECONDS_LEFT}s ..."
+        sleep 1
+        SECONDS_LEFT=$((${SECONDS_LEFT} - 1))
+    done
+    echo "-----------------------------------------------------------------------------------"
+    echo "To connect to this session copy and paste the following into a terminal or browser:"
+    echo -e "CLI: ${Green_font_prefix}${TMATE_SSH}${Font_color_suffix}"
+    echo -e "URL: ${Green_font_prefix}${TMATE_WEB}${Font_color_suffix}"
+    echo -e "TIPS: Run 'touch ${CONTINUE_FILE}' to continue to the next step."
+    echo "-----------------------------------------------------------------------------------"
+    PRT_COUNT=$((${PRT_COUNT} + 1))
+done
+
+while [[ -S ${TMATE_SOCK} ]]; do
+    sleep 1
+    if [[ -e ${CONTINUE_FILE} ]]; then
+        echo -e "${INFO} Continue to the next step."
+        exit 0
+    fi
+done
